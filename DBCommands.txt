@@ -1,0 +1,10 @@
+
+name of type string ==> varchar in oracle
+                        char[] in mysql
+                         text in postgres
+
+Using Postgres Sql:-
+inserting values into table:  
+  insert into student values (1,'Vipul',80);
+
+  
