@@ -7,4 +7,9 @@ Using Postgres Sql:-
 inserting values into table:  
   insert into student values (1,'Vipul',80);
 
+
+postgres jdbc driver
+https://jdbc.postgresql.org/
+https://mvnrepository.com/artifact/org.postgresql/postgresql
+
   
