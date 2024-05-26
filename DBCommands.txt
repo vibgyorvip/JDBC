@@ -14,6 +14,9 @@ fetching data from table:-
 update data into db:-
   update student set sname='max' where sid=5
 
+Delete date from db:-
+delete from student where sid=5"
+
 
 postgres jdbc driver
 https://jdbc.postgresql.org/
