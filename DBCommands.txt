@@ -7,9 +7,12 @@ Using Postgres Sql:-
 inserting values into table:  
   insert into student values (1,'Vipul',80);
 
-fetching date from table:-
+fetching data from table:-
   select sname from student where sid=1;
   select * from student; // to fetch all the data
+
+update data into db:-
+  update student set sname='max' where sid=5
 
 
 postgres jdbc driver
