@@ -9,10 +9,13 @@ inserting values into table:
 
 fetching date from table:-
   select sname from student where sid=1;
+  select * from student; // to fetch all the data
 
 
 postgres jdbc driver
 https://jdbc.postgresql.org/
 https://mvnrepository.com/artifact/org.postgresql/postgresql
+
+rs.next()--> it will shift by 1 pointer and it will check whether the next row is there or not
 
   
